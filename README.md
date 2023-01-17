@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web scraping
 - 📫 How to reach me ...
-- I'm eager to learn new thing 
+- 👩🏻‍💻 I'm eager to learn new thing 
 
 <!---
 Lalitasahu/Lalitasahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
